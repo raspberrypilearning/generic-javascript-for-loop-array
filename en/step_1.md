@@ -1,19 +1,13 @@
-## Introduction
+This is a for loop which will print each item from the animals array in turn.
 
-Add project description here. What will learners be making?
+```JavaScript
+var animals = ["fox", "wolf", "panda", "squirrel"];
 
-### What you will make
+for(var i=0; i < animals.length; i++){
+    document.write(animals[i] + "<br>");
+}
+```
 
-Add something here to showcase here, for example:
+Try it out for yourself here:
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
-
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+<iframe src="https://trinket.io/embed/html/deb112ff78" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
