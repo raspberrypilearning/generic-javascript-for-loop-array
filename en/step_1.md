@@ -1,4 +1,4 @@
-This is a for loop which will print each item from the animals array in turn.
+This for loop will print each item in the animals array in turn.
 
 ```JavaScript
 var animals = ["fox", "wolf", "panda", "squirrel"];
