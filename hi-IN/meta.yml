@@ -1,7 +1,7 @@
 ---
-title: For loop over an array in JavaScript
+title: JavaScript में एक ऐरे पर For लूप
 hero_image: images/banner.png
-description: Learn how to use a for loop to loop through an array in JavaScript
+description: JavaScript में ऐरे को लूप करने के लिए for लूप का उपयोग करना सीखें
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
@@ -13,4 +13,4 @@ technologies: ""
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: भूमिका
